@@ -13,13 +13,25 @@
 					<key>url</key>
 					<string>https://advking.github.io/YonhapNews.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://advking.github.io/YonhapNews.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://advking.github.io/YonhapNews.jpg</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>kr.co.psynet.YonhapNewsChina</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
